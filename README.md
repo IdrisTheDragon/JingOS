@@ -5,6 +5,8 @@ JingOS is a 'convergent' Linux-based open-source mobile OS for tablets and mobil
 It can run Linux apps and Android apps.
 It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 
+
+some change 
 [Download JingOS](https://en.jingos.com)
 
 Here are some other links:
