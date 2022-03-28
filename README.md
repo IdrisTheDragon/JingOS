@@ -11,7 +11,7 @@ Here are some other links:
 
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - The World’s First Consumer-Level Linux Tablet.
 [Buy JingPad A1](http://shop.jingos.com)
-
+zxczxc
 ## Newsletter and Community 
 [Mailing List](http://hk.mikecrm.com/pg5E05S)\
 [Discord Channel](https://discord.gg/xEwDGW7RnJ)\
