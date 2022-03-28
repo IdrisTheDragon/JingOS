@@ -1,4 +1,4 @@
-# JingOS
+# JingOS some other change
 ### The World’s First Linux-Based OS Designed for Tablets
 
 JingOS is a 'convergent' Linux-based open-source mobile OS for tablets and mobile devices.
